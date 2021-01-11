@@ -1,3 +1,6 @@
+import uwsgi
+
+
 def main():
     while True:
         message = uwsgi.mule_get_msg()
