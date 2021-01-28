@@ -1,5 +1,7 @@
 # uwsgi-demo
 
+![uWSGI demo](/uwsgi-demo.png?raw=true)
+
 Demonstrates the main features and concepts of the uWSGI server
 
 ## Requirements
